@@ -3,7 +3,7 @@ import mysql.connector
 class Database:
 
     def __init__(self):
-        self.conn = mysql.connector.connect(host='localhost', user='root', password='', database='nlp_web_app')
+        self.conn = mysql.connector.connect(host='localhost', user='root', password='', database='nlp-analyzer')
         self.cursor = self.conn.cursor()
 
     def select(self, email, password):
