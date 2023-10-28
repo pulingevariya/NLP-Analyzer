@@ -24,4 +24,5 @@ Harness the power of NLP using the API from \`**komprehend.io**`\, integrating f
 - MySQL (Used for user authentication)
 
 ## Project Demo:
-![acc](https://github.com/pulingevariya/NLP-Analyzer/assets/113835862/c4510c98-0864-4b20-ac89-436dd65e5f12)
+![acc](https://github.com/pulingevariya/NLP-Analyzer/assets/113835862/c4510c98-0864-4b20-ac89-436dd65e5f12)![login](https://github.com/pulingevariya/NLP-Analyzer/assets/113835862/9dbc9656-e164-4b09-9f7d-92940f0c6c19)
+
