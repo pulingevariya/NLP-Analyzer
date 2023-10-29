@@ -1,4 +1,4 @@
-# NLP Analyzer with Komprehend.io API
+# 📊 NLP Analyzer
 
 Harness the power of NLP using the API from \`**komprehend.io**`\, integrating functionalities like named entity recognition, sentiment analysis, and abusive content classification.
 
